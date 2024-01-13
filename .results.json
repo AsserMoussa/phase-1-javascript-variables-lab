@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2024-01-12T04:59:02.876Z",
-    "end": "2024-01-12T04:59:03.117Z",
-    "duration": 241
+    "start": "2024-01-13T01:23:22.229Z",
+    "end": "2024-01-13T01:23:22.676Z",
+    "duration": 447
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -59,7 +59,7 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,7 +94,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
